@@ -22,7 +22,7 @@ This data catalog service is used to register or catalog the data stored in S3. 
 
 Instead of manually registering the data, you can also use AWS Glue Crawler. A Crawler can be used and set up to run on a schedule or to automatically find new data, which includes inferring the data schema and also to update the data catalog.
 
-![](./practical_data_science_on_aws_cloud/111.png)
+![](./practical_data_science_on_aws_cloud/111.PNG)
 
 how to register the data:
 ```py
@@ -62,4 +62,4 @@ Advantages of using Amazon Athena:
 
 ### Data visualization
 
-![](./practical_data_science_on_aws_cloud/112.png)
+![](./practical_data_science_on_aws_cloud/112.PNG)
